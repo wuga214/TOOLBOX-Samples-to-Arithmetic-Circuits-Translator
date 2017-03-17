@@ -35,8 +35,8 @@ Python 2.7 + ipython
 ```
 
 ## Related Packages
-[Bayes Network Generator](https://github.com/wuga214/TOOLBOX-Random-Bayes-Net-Generator)
-[Arithmetic Circuits to Tensorflow Tensor Compiler](https://github.com/wuga214/TOOLBOX-Arithmetic-Circuits-to-Tensorflow-Compiler)
+1. [Bayes Network Generator](https://github.com/wuga214/TOOLBOX-Random-Bayes-Net-Generator)
+2. [Arithmetic Circuits to Tensorflow Tensor Compiler](https://github.com/wuga214/TOOLBOX-Arithmetic-Circuits-to-Tensorflow-Compiler)
 
 ## Cite
 ```
